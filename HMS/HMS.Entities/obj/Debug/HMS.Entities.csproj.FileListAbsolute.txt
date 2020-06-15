@@ -1,0 +1,14 @@
+C:\Users\user\documents\visual studio 2015\Projects\HMS\HMS.Entities\bin\Debug\HMS.Entities.dll.config
+C:\Users\user\documents\visual studio 2015\Projects\HMS\HMS.Entities\bin\Debug\HMS.Entities.dll
+C:\Users\user\documents\visual studio 2015\Projects\HMS\HMS.Entities\bin\Debug\HMS.Entities.pdb
+C:\Users\user\documents\visual studio 2015\Projects\HMS\HMS.Entities\bin\Debug\EntityFramework.dll
+C:\Users\user\documents\visual studio 2015\Projects\HMS\HMS.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\documents\visual studio 2015\Projects\HMS\HMS.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\documents\visual studio 2015\Projects\HMS\HMS.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\documents\visual studio 2015\Projects\HMS\HMS.Entities\bin\Debug\EntityFramework.xml
+C:\Users\user\documents\visual studio 2015\Projects\HMS\HMS.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\documents\visual studio 2015\Projects\HMS\HMS.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\documents\visual studio 2015\Projects\HMS\HMS.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\documents\visual studio 2015\Projects\HMS\HMS.Entities\obj\Debug\HMS.Entities.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2015\Projects\HMS\HMS.Entities\obj\Debug\HMS.Entities.dll
+C:\Users\user\documents\visual studio 2015\Projects\HMS\HMS.Entities\obj\Debug\HMS.Entities.pdb
